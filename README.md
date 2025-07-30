@@ -1,0 +1,2 @@
+This is a responsive front-end e-commerce website built using HTML, CSS, and JavaScript. The design is fully based on a provided Figma UI, focusing on clean layout, interactivity, and responsiveness across all device
+Fully responsive layout (desktop, tablet, mobile),Navigation bar with dropdown menu,Search bar with interactive hover effect,Product cards layout also Hover effects on buttons and images and the most important feature is Clean and modern UI using custom fonts and colors
